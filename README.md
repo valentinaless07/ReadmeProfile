@@ -4,11 +4,11 @@
 
 - My latest projects: 
 
- [PI DOGS](https://github.com/valentinaless07/PI-DOGS) 
+ [PI Dogs](https://github.com/valentinaless07/PI-DOGS) 
  
- [MOVIES-APP](https://github.com/valentinaless07/Movies-App) 
+ [Movies-App](https://github.com/valentinaless07/Movies-App) 
  
- [HARRY-POTTER-APP](https://github.com/valentinaless07/Harry-Potter-App)
+ [Harry-Potter-APP](https://github.com/valentinaless07/Harry-Potter-App)
 
 
 <h3 align="left">Languages and Tools:</h3>
