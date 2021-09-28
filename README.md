@@ -7,7 +7,6 @@
 ![Image](./dogs1.png)
 ![Image](./dogs2.png)
 
-[Movies-App](https://github.com/valentinaless07/Movies-App)
 
 [Harry-Potter-APP](https://github.com/valentinaless07/Harry-Potter-App)
 
