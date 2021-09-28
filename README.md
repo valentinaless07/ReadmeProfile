@@ -6,8 +6,6 @@
 [PI Dogs](https://github.com/valentinaless07/PI-DOGS)
 ![Image](./dogs1.png)
 ![Image](./dogs2.png)
-![Image](./dogs3.png)
-![Image](./dogs4.png)
 
 [Movies-App](https://github.com/valentinaless07/Movies-App)
 
