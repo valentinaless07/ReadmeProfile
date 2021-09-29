@@ -4,7 +4,7 @@
 - My latest projects:
 
 [E-Commerce - "Bodegas Del Sur"](https://abadalejandro.github.io/pg-wines-frontend/#/)
-![Image](./pg1.png)
+![Image](./pg1.PNG)
 ![Image](./pg2.png)
 
 [PI Dogs](https://github.com/valentinaless07/PI-DOGS)
