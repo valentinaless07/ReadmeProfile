@@ -7,13 +7,6 @@
 ![Image](./pg1.PNG)
 ![Image](./pg2.png)
 
-[PI Dogs](https://github.com/valentinaless07/PI-DOGS)
-![Image](./dogs1.png)
-![Image](./dogs2.png)
-
-[Harry-Potter-APP](https://github.com/valentinaless07/Harry-Potter-App)
-![Image](./harrypotter1.png)
-![Image](./harrypotter2.png)
 
 [Movies App](https://github.com/valentinaless07/Movies-App)
 
