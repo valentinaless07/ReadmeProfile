@@ -4,12 +4,12 @@
 - My latest projects:
 
 [UpTask - Administrador de Proyectos](https://dazzling-crepe-71c890.netlify.app/)
-![Image](./UpTask 1.jpg)
+![Image](./UpTask1.jpg)
 ![Image](./UpTask2.png)
 
 
 [Planificador de Gastos](https://modest-hopper-b9a026.netlify.app/)
-![Image](./Budgeting1.png
+![Image](./Budgeting1.png)
 ![Image](./Budgeting2.jpg)
 
 <h3 align="left">Languages and Tools:</h3>
