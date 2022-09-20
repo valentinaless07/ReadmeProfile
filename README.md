@@ -19,7 +19,5 @@
 <a href= https://github.com/valentinaless07?tab=repositories&q=&type=&language=mongodb&sort= > <img  width ='40px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://github.com/valentinaless07?tab=repositories&q=&type=&language=reactnative&sort= > <img  width ='40px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
 
-<br></br>
-
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=valentinaless07&theme=react)](https://git.io/streak-stats)
