@@ -3,8 +3,6 @@
 <h3 align="center">A full stack developer from Argentina</h3>
 
 
-<br></br>
-
 <h2> Languages and Tools <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2> 
 <a href= https://github.com/valentinaless07?tab=repositories&q=&type=&language=javascript&sort= > <img  width ='40px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/valentinaless07?tab=repositories&q=&type=&language=typescript&sort= > <img  width ='40px'  src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
